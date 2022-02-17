@@ -1,5 +1,5 @@
 # MAD exp2
 # SCREENSHORTS
-![github-small](assets/screenshorts/1.jpg)
+<img src="assets/screenshorts/1.jpg" height="50%"/>
 
 
