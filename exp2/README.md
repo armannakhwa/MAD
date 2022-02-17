@@ -1,5 +1,5 @@
 # MAD exp2
 # SCREENSHORTS
-<img src="assets/screenshorts/1.jpg" height="50%"/>
+<img src="assets/screenshorts/1.jpg" height="500px"/>
 
 
